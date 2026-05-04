@@ -1,0 +1,32 @@
+# ──── Dataset (too large for GitHub ~150MB) ────
+creditcard.csv
+
+# ──── Generated chart images ────
+pred1_classification.png
+pred2_probability_score.png
+pred3_financial_loss.png
+
+# ──── Python cache ────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ──── Virtual environment ────
+venv/
+env/
+.venv/
+
+# ──── IDE / Editor files ────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ──── OS junk ────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ──── Jupyter (if used later) ────
+.ipynb_checkpoints/
