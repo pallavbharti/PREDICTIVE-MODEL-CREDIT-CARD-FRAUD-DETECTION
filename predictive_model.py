@@ -3,7 +3,7 @@
 PREDICTIVE MODEL — CREDIT CARD FRAUD DETECTION
 =============================================================================
 Project: Probability Model of Financial Loss in Online Scam Victims
-Authors: Ishika Mehrotra | Shivanya Bharadwaj | Pallav Bharti
+Authors: Ishika Mehrotra | Shivanya Bharadwaj | Pallav Bharti | Manish Kumar
 UPES, School of Computer Science, B.TECH VI Semester
 
 IS MODEL SE TEEN CHEEZEIN PREDICT HOTI HAIN:
