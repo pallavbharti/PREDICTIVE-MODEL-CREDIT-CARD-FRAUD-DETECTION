@@ -3,7 +3,7 @@
 **Subject:** Probability & Statistics — Final Project  
 **Institution:** UPES, School of Computer Science  
 **Program:** B.Tech CSE, VI Semester  
-**Authors:** Ishika Mehrotra | Shivanya Bharadwaj | Pallav Bharti
+**Authors:** Ishika Mehrotra | Shivanya Bharadwaj | Pallav Bharti | Manish Kumar
 
 ---
 

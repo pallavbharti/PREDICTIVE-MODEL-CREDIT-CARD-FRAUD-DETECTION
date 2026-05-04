@@ -402,6 +402,6 @@ print("""
 """)
 
 print("="*65)
-print("  AUTHORS: Ishika Mehrotra | Shivanya Bharadwaj | Pallav Bharti")
+print("  AUTHORS: Ishika Mehrotra | Shivanya Bharadwaj | Pallav Bharti | Manish Kumar")
 print("  UPES, School of Computer Science, B.TECH VI Semester")
 print("="*65)
